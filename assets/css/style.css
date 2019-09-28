@@ -8,13 +8,16 @@
     
     }
 
-.nav{
+
+
+.navbar{
     text-align: right;
     background-color: #ffffff;
+    color: #4aaaa4;
     float: right;
     position: sticky;
-    top: 80px;
-    right: 320px;
+    top: 40px;
+    right: 380px;
     height: 40px;
     width: 300px;
     font-size: medium;
